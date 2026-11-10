@@ -1,0 +1,29 @@
+Công thức Prompt 3 Thành phần nhờ AI giải thích lỗi
+Vai trò: Bạn là một lập trình viên giàu kinh nghiệm, giỏi dùng ví dụ thực tế để giải thích kỹ thuật.
+Bối cảnh: Tôi đang gấp rút nộp bài lên GitHub thì Terminal trên máy tính báo lỗi error: open(".git/FETCH_HEAD"): Permission denied và tôi không tài nào thao tác tiếp được.
+Nhiệm vụ: Hãy giải thích lỗi này một cách bình dân, dễ hiểu nhất như đang kể chuyện, chỉ rõ tại sao Git lại từ chối quyền truy cập vào thư mục .git của tôi.
+Hướng dẫn xử lý và mô phỏng minh họa
+Nếu AI hướng dẫn chạy quyền cao nhất để cấp lại quyền sở hữu thư mục:
+Nhấp chuột phải vào Terminal hoặc PowerShell và chọn Run as Administrator.
+Chạy lệnh khôi phục quyền sở hữu cho thư mục ẩn quản lý git:
+takeown /f .git /r /d y
+icacls .git /reset /t
+Mô tả ảnh chụp màn hình minh họa:
+Cửa s dòng lệnh Terminal hiển thị các dòng lệnh đã thực thi thành công với thông báo SUCCESS màu trắng.
+Khoanh vùng màu đỏ nổi bật vào dòng thông báo quyền truy cập đã được thiết lập lại.
+Các thông tin cá nhân hoặc tên đường dẫn nhạy cảm trên máy đã được làm mờ hoàn toàn để đảm bảo bảo mật.
+Tin nhắn nhờ giảng viên hỗ trợ tuân thủ Bug Reporting Framework
+Kính gửi thầy cô,
+Em là l, sinh viên lớp CNTT2 tại học viện. Em đang gặp sự cố khi đồng bộ mã nguồn lên GitHub và kính mong thầy cô hỗ trợ giúp em.
+Dưới đây là chi tiết lỗi em gặp phải:
+Ngữ cảnh
+Hệ điều hành: Windows 11
+Công cụ: Terminal / Git
+Thao tác: Thực hiện lệnh đẩy code lên kho lưu trữ trực tuyến
+Mong đợi
+Lệnh Git thực thi thành công và hoàn tất việc đồng bộ dữ liệu
+Thực tế
+Terminal báo lỗi từ chối quyền truy cập và không thể đọc file hệ thống bên trong thư mục ẩn của Git
+Nhật ký lỗi
+error: open(".git/FETCH_HEAD"): Permission denied
+fatal: Not a git repository (or any of the parent directories): .git
