@@ -1,0 +1,13 @@
+phần 1
+https://docs.google.com/document/d/19vmKgji-wX2QCYad20Qb5Cux8_BihiSjUn0TFeZzxCY/edit?usp=sharing
+phần 2 Chốt lựa chọn và lý luận: Tại sao "Tích xanh" đôi khi không phải ưu tiên số 1?
+Lựa chọn: Ưu tiên Giải pháp 2 (sau khi kiểm tra nhanh nội dung kỹ thuật).
+Lập luận:
+Công nghệ phát triển theo thời gian: Ngành phần mềm thay đổi rất nhanh.
+Một giải pháp từ năm 2014 có thể hoàn toàn chính xác ở thời điểm đó, nhưng đến nay các tiêu chuẩn bảo mật của Git và hệ điều
+hành đã thay đổi (ví dụ: Git hiện đại mặc định sử dụng thuật toán khóa Ed25519 an toàn hơn, trong khi năm 2014 chuộng RSA). 
+Áp dụng tích xanh cũ có thể khiến bạn tiếp tục gặp lỗi hoặc làm sai lệch cấu hình bảo mật.
+Bẫy "Tích xanh" lịch sử: Biểu tượng tích xanh (Accepted Answer) chỉ chứng minh rằng câu trả lời đó đã giải quyết đúng vấn đề
+cho người đặt câu hỏi tại thời điểm năm 2014. Nó không tự động cập nhật theo các bản vá bảo mật hay phiên bản hệ điều hành mới ra mắt sau này.
+Tín hiệu thực tế từ cng đồng: Bình luận xác nhận "This works for Windows 11" mang giá trị thực chiến cao hơn đối với môi trường phần mềm hiện tại của bạn, 
+giúp tiết kiệm thời gian mò mẫm các lỗi phát sinh do lệch phiên bản hệ điều hành.
