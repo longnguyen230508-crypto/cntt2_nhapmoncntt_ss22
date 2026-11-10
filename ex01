@@ -1,0 +1,27 @@
+1. Tại sao toán tử filetype: giúp tiết kiệm thời gian hơn so với gõ "tải sách..."?
+Khi bạn gõ các từ khóa thông thường như "tải sách giáo trình Nhập môn CNTT PDF", cách vận hành của Google và bản chất của Internet sẽ tạo ra nhiều bước cản trở:
+Sập bẫy các trang web "rác" (Content Farms): Các từ khóa dạng "tải về", "download", "free" bị lợi dụng bởi hàng loạt trang web SEO kém chất lượng. Khi bấm vào,
+bạn sẽ phải đối mặt với vô số banner quảng cáo, bộ đếm ngược giả mạo, hoặc các nút "Download" đánh lừa dẫn đến phần mềm độc hại.
+Vòng lặp trung gian thu phí: Nhiều trang web tài liệu yêu cầu phải tạo tài khoản, nạp tiền, mua "VIP", hoặc làm nhiệm vụ rườm rà mới cho phép tải file.
+Thậm chí sau khi hoàn tất, file nhận được đôi khi bị lỗi phông, thiếu trang hoặc không đúng phiên bản.
+Ưu điểm vượt trội của filetype:pdf: Toán tử này yêu cầu Google bỏ qua hoàn toàn các bài viết blog, diễn đàn hay trang quảng cáo, và chỉ quét tìm các tệp tin lưu trữ trực 
+tiếp có đuôi .pdf trên các không gian lưu trữ 
+. Bạn nhận được đường dẫn trỏ thẳng đến tệp tài liệu gốc để đọc online hoặc tải về ngay lập tức chỉ trong 1 cú click.
+2. Mô phỏng ảnh chụp màn hình 3 kết quả đầu tiên
+Dưới đây là giao diện mô phỏng trang kết quả tìm kiếm của Google sau khi áp dụng câu lệnh site:ptit.edu.vn "Nhập môn Công nghệ Thông tin" filetype:pdf -site:tailieu.vn -site:123doc.net:
+
+[PDF] Giao_trinh_Nhap_mon_CNTT_PTIT_2026.pdf
+https://lms.ptit.edu.vn › pluginfile.php › Giao_trinh_Nhap_mon_CNTT.pdf
+Tệp này là giáo trình chính thống được số hóa và lưu trữ trên hệ thống E-Learning của 
+Học viện Công nghệ Bưu chính Viễn thông dành riêng cho sinh viên năm nhất. 
+Nội dung bám sát đề cương chi tiết học phần.
+
+[PDF] Bai_giang_Nhap_mon_Cong_nghe_thong_tin_K26.pdf
+https://portal.ptit.edu.vn › cntt › files › Nhap_mon_CNTT_Slides.pdf
+Slide bài giảng tổng hợp từ Khoa Công nghệ Thông tin 1. Bao gồm các slide lý thuyết 
+cốt lõi, sơ đồ tư duy hệ thống máy tính và các dạng bài tập ôn thi kết thúc học phần.
+
+[PDF] Tai_lieu_Thuc_hanh_va_On_tap_NMCNTT.pdf
+https://fit.ptit.edu.vn › download › Tai_lieu_Mon_NMCNTT.pdf
+Tài liệu hướng dẫn thực hành và ngân hàng câu hỏi ôn tập lưu hành nội bộ của khoa. 
+Cung cấp các hướng dẫn cấu hình môi trường lập trình và ví dụ minh họa chi tiết.
