@@ -1,0 +1,11 @@
+1. Báo cáo phân tích (IPO)
+Input (Đầu vào): Câu lệnh do AI cung cấp để khắc phục lỗi "Path not found" khi cài đặt Python, tiềm ẩn rủi ro can thiệp sâu hoặc sai hệ điều hành.
+Process (Quy trình kiểm chứng):
+Phân tích cấu trúc câu lệnh, xác định các từ khóa (ví dụ: thay đổi biến môi trường PATH, thao tác với Registry trên Windows hoặc file cấu hình shell trên macOS/Linux).
+Sử dụng toán tử tìm kiếm chuyên sâu để kiểm tra tài liệu chính thức hoặc kinh nghiệm cộng đồng: site:stackoverflow.com "Python" "Path not found" kết hợp với trang chủ tài liệu Python (docs.python.org).
+Đánh giá xem các tham số trong câu lệnh có khớp với cách giải quyết tiêu chuẩn hay không, đồng thời loại trừ nguy cơ lệnh chứa mã độc hoặc thao tác xóa/ghi đè file hệ thống trái phép.
+Output (Đầu ra): Kết luận lệnh an toàn (nếu khớp với tài liệu chuẩn) hoặc không an toàn / ảo giác (nếu sai hệ điều hành, can thiệp ngoài phạm vi cấu hình biến môi trường).
+2. Thiết kế câu lệnh (Prompt) "hỏi ngược lại" AI
+Bạn có thể sử dụng mẫu câu lệnh sau để yêu cầu AI giải trình trước khi thực thi:
+->
+Hãy giải thích chi tiết từng thành phần và mục đích của câu lệnh bạn vừa cung cấp. Câu lện
