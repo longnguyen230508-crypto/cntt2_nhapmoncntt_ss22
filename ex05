@@ -1,0 +1,18 @@
+Mẫu báo cáo lỗi môi trường
+Ngữ cảnh
+Hệ điều hành:
+Công cụ:
+Thao tác:
+Mong đợi
+Kết quả đúng:
+Thực tế
+Lỗi gặp phải:
+Nhật ký lỗi
+[Dán mã lỗi tại đây]
+Quy trình tự xử lý sự cố ba bước
+Bước 1: Tìm kiếm thông minh trên Google
+Sao chép nguyên văn đoạn thông báo lỗi đặt trong dấu ngoặc kép kèm tên công nghệ.
+Bước 2: Tìm kiếm trong cộng đồng
+Kiểm tra các lỗi tương tự trên mục Issues của kho lưu trữ GitHub chính thức hoặc StackOverflow.
+Bước 3: Phân tích bằng trí tuệ nhân tạo
+Đưa log lỗi vào AI để yêu cầu giải thích nguyên nhân gốc rễ và hướng khắc phục từng bước.
