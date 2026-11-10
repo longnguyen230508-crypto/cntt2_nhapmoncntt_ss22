@@ -1,0 +1,9 @@
+1. Ưu tiên đọc các bình luận có đặc điểm gì?
+Lượt tương tác tích cực cao (Thumbs Up, Heart): Cho thấy nhiều người đã áp dụng giải pháp và xác nhận thành công.
+Có huy hiệu Member, Owner, Author: Người phát triển hoặc tạo Issue, nắm rõ cấu trúc hệ thống.
+Có mã nguồn và ngữ cảnh rõ ràng: Đi kèm thông số phiên bản, nhật ký lỗi và đoạn mã cụ thể thay vì lời khuyên chung chung.
+2. Khái niệm Workaround và lý do không nên đợi bản vá chính thức
+Khái niệm Workaround: Là giải pháp tạm thời (cấu hình thay thế hoặc đoạn mã vá nhanh) giúp vượt qua lỗi ngay lập tức mà không cần sửa mã nguồn gốc.
+Lý do không nên đợi:
+Issue đang OPEN nên không thể xác định thời điểm phát hành bản sửa lỗi chính thức.
+Áp dụng workaround giúp bạn duy trì tiến độ công việc và bài tập mà không bị đình trệ.
